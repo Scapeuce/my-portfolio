@@ -4,4 +4,6 @@ It uses AWS and ReactJS
 ## Technologies used
 SSH
 Git and github
-.... another ?
+HTML
+Font Awesome
+Google Fonts
