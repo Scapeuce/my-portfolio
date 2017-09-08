@@ -1,2 +1,2 @@
-# my-portfolio
-A-Cloud_Guru_Course
+# Andres Lillo's portfolio
+It uses AWS and ReactJS
