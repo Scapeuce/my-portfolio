@@ -1,0 +1,32 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch",
+    "webpack": "webpack",
+    "webpack-watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scapeuce/my-portfolio.git"
+  },
+  "author": "Andres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scapeuce/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/Scapeuce/my-portfolio#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.6.0"
+  }
+}
